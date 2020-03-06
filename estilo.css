@@ -1,0 +1,11 @@
+body{
+    background: cyan;
+}
+p{
+    font-size: 35px;
+    font-family: 'Arial';
+    color: black;
+}
+    .center{
+        text-align: center;
+    }
